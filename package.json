@@ -1,0 +1,22 @@
+{
+  "name": "cit262",
+  "version": "1.0.0",
+  "description": "Week 3 Activity (To make this nodeJS project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallenzao/cit262.git"
+  },
+  "keywords": [
+    "cit262"
+  ],
+  "author": "Dallen Harmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dallenzao/cit262/issues"
+  },
+  "homepage": "https://github.com/dallenzao/cit262#readme"
+}
